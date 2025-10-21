@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#increment-btn {
+    background-color: green;
+    color: white;
+}
+
+#save-btn {
+    background-color: blue;
+    color: white;
+}
+    
